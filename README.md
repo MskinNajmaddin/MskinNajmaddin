@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MskinNajmaddin
-- 👀 I’m interested in ...coding
+- 👀 I’m interested in ...coding, programming
 - 🌱 I’m currently learning ...python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
